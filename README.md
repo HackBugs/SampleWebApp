@@ -101,7 +101,7 @@ Target > junit
 
 Post-Build action
 select > Publish Junit test result report
-Paste > github project which your already created .xml file name
+Paste > github project which your already created TestCalculator_JUnitResult.xml file name
 Save
 ___________________________________________________________________________________________________________________________
 ### 4
